@@ -1,0 +1,7 @@
+
+
+cd 'G:\My Drive\MyPython\f40.fun'
+.\venv\Scripts\activate  
+
+cd 'G:\My Drive\MyPython\f40.fun\passgen.f40.fun\passgen\'
+python .\manage.py runserver  
